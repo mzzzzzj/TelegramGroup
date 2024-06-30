@@ -25,7 +25,7 @@
         <img src="https://i.imgur.com/uTMZCDf.png" width="345px;" alt="1"/>
       </a>
       <br />
-      <a href="https://t.me/sosoo?start=a_7202424896">@搜搜机器人</a>
+      <a href="https://t.me/hao1234cnso">@搜搜机器人</a>
     </td>
     <td align="center">
       <a href="https://t.me/jisou2bot?start=a_7202424896">
